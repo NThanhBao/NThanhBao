@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Thanh Bao𓆤</h1>
 
-<h2 align="center">👨‍💻 "Life is to be happy" 😄</h2>
+<h2 align="center">👨‍💻 "Hello, I'm Thanh Bao, a passionate software developer who loves exploring innovative solutions to problems and creating exceptional user experiences!" 😄</h2>
 
 ## 📫 How to Reach Me
 

@@ -15,7 +15,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&borderRadius=20)](https://www.linkedin.com/in/thanhbao2510/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2&borderRadius=20)](https://x.com/ngthanhbao_dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&borderRadius=20)](mailto:ngthanhbao.dev@gmail.com)
-
-
-## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=NThanhBao&show_icons=true&theme=radical)

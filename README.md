@@ -22,11 +22,11 @@
 
 ---
 
-# 🌟 Personal Projects
+## 🌟 Personal Projects
 
 ---
 
-## 🛍️ **GoldenNest - Online Store**
+#### 🛍️ **GoldenNest - Online Store**
 
 **GoldenNest** is a modern e-commerce platform designed for selling premium bird's nest products. With a secure backend and a responsive frontend, it delivers an exceptional shopping experience.
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 📌 **Social-application**
+#### 📌 **Social-application**
 
 **Social-application** is a feature-rich platform that combines **Spring Boot** and **ReactJS** to manage social interactions seamlessly.
 

@@ -22,56 +22,51 @@
 
 ---
 
-## 🌟 Personal Projects
-
-# GoldenNest - Online Store
-
-GoldenNest is a modern e-commerce website for selling high-quality bird's nest products. It features a secure backend and an interactive, responsive frontend to provide a seamless shopping experience.
-
-## 🔧 Technologies
-### Backend
-- **Spring Boot**: Web framework for building REST APIs.
-- **Spring Security**: Authentication and authorization with JWT.
-- **Spring Data JPA**: ORM for database operations.
-- **Flyway**: Database versioning and migration.
-- **MySQL**: Relational database.
-- **MinIO**: Secure file storage.
-- **WebSocket**: Real-time communication.
-- **JJWT**: JSON Web Token implementation.
-- **ModelMapper**: Object mapping library.
-- **SpringDoc OpenAPI**: API documentation.
-### Frontend
-- **ReactJS**: JavaScript library for building user interfaces.
-- **TailwindCSS**: Utility-first CSS framework for styling.
-- **Bootstrap**: CSS framework for responsive design.
-- **Axios**: HTTP client for API communication.
-- **React Router**: Navigation and routing in React.
-- **React Slick**: Carousel component for React.
-- **Swiper**: Modern slider library.
-- **Framer Motion**: Animation library for React.
-
-## ✨ Features
-- **User Authentication and Authorization**: Secure login and role-based access control using JWT.
-- **Product Management**: CRUD operations for admin users.
-- **Responsive Design**: Optimized for mobile and desktop using TailwindCSS and Bootstrap.
-- **Real-time Notifications**: WebSocket integration for instant updates.
-- **File Uploads**: Securely upload and manage files with MinIO.
-- **Data Export**: Export product data to Excel or PDF formats.
+# 🌟 Personal Projects
 
 ---
 
-### 📌 [Social-application](https://github.com/NThanhBao/SSocial-application)
-- **Description**: A Spring Boot application combined with ReactJS for managing social networks and user interactions.
-- **Technologies**: Spring Boot, ReactJS, WebSocket, JWT, Redis, Flyway, MySQL...
-- **Features**:
-  - Interactive charts and reports.
-  - User Management: Registration, login, and profile management.
-  - Real-time Chat: Supports 1-1 messaging and real-time notifications using WebSocket.
-  - High Security: Authentication and authorization with JWT, ensuring user data encryption.
-  - File Management: Upload and store files using MinIO.
-  - Reports and Analytics: Integrates charts and data visualization for insights.
-  - Performance Optimization: Uses Redis and Caffeine caching to enhance data processing speed.
+## 🛍️ **GoldenNest - Online Store**
+
+**GoldenNest** is a modern e-commerce platform designed for selling premium bird's nest products. With a secure backend and a responsive frontend, it delivers an exceptional shopping experience.
+
+### 🔧 **Technologies**
+#### Backend:
+- Spring Boot, Spring Security, Spring Data JPA, Flyway, MySQL  
+- MinIO, WebSocket, JJWT, SpringDoc OpenAPI  
+
+#### Frontend:
+- ReactJS, TailwindCSS, Bootstrap  
+- Axios, React Router, React Slick, Swiper, Framer Motion  
+
+### ✨ **Key Features**
+- **🔑 User Authentication**: Secure login with role-based access using JWT.  
+- **🛠️ Product Management**: CRUD operations for administrators.  
+- **📱 Responsive Design**: Optimized for all devices with TailwindCSS and Bootstrap.  
+- **🔔 Real-time Notifications**: Powered by WebSocket for instant updates.  
+- **📂 File Uploads**: Secure file storage and management using MinIO.  
+- **📊 Data Export**: Generate Excel or PDF reports for products.  
 
 ---
 
-Feel free to explore these projects and reach out if you have any questions or suggestions!
+## 📌 **Social-application**
+
+**Social-application** is a feature-rich platform that combines **Spring Boot** and **ReactJS** to manage social interactions seamlessly.
+
+### 🔧 **Technologies**
+- Spring Boot, ReactJS, WebSocket, JWT, Redis  
+- Flyway, MySQL, MinIO  
+
+### ✨ **Key Features**
+- **📊 Interactive Charts**: Visualize user activity with detailed reports.  
+- **👤 User Management**: Includes registration, login, and profile handling.  
+- **💬 Real-time Chat**: 1-1 messaging with WebSocket for instant communication.  
+- **🔐 High Security**: Authentication and authorization via JWT with encrypted data.  
+- **📂 File Management**: Upload and manage files using MinIO.  
+- **📈 Reports & Analytics**: Integrated charts for data insights.  
+- **⚡ Performance Optimization**: Enhanced speed with Redis and Caffeine caching.  
+
+---
+
+Explore these projects to learn more about my work and feel free to connect for collaboration or feedback! 😊  
+

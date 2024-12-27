@@ -26,20 +26,20 @@
 
 ---
 
-#### 🛍️ **GoldenNest - Online Store**
+### 🛍️ **GoldenNest - Online Store**
 
 **GoldenNest** is a modern e-commerce platform designed for selling premium bird's nest products. With a secure backend and a responsive frontend, it delivers an exceptional shopping experience.
 
-### 🔧 **Technologies**
-#### Backend:
-- Spring Boot, Spring Security, Spring Data JPA, Flyway, MySQL  
-- MinIO, WebSocket, JJWT, SpringDoc OpenAPI  
+#### 🔧 **Technologies**
+##### Backend:
+- Spring Boot, Spring Security, Spring Data JPA, Flyway, MySQL.
+- MinIO, WebSocket, JJWT, SpringDoc OpenAPI.
 
-#### Frontend:
-- ReactJS, TailwindCSS, Bootstrap  
-- Axios, React Router, React Slick, Swiper, Framer Motion  
+##### Frontend:
+- ReactJS, TailwindCSS, Bootstrap.
+- Axios, React Router, React Slick, Swiper, Framer Motion.
 
-### ✨ **Key Features**
+#### ✨ **Key Features**
 - **🔑 User Authentication**: Secure login with role-based access using JWT.  
 - **🛠️ Product Management**: CRUD operations for administrators.  
 - **📱 Responsive Design**: Optimized for all devices with TailwindCSS and Bootstrap.  
@@ -49,15 +49,20 @@
 
 ---
 
-#### 📌 **Social-application**
+### 📌 **TBConnect - Social Network Applications**
 
-**Social-application** is a feature-rich platform that combines **Spring Boot** and **ReactJS** to manage social interactions seamlessly.
+**TBConnect** is a feature-rich platform that combines **Spring Boot** and **ReactJS** to manage social interactions seamlessly.
 
-### 🔧 **Technologies**
-- Spring Boot, ReactJS, WebSocket, JWT, Redis  
-- Flyway, MySQL, MinIO  
+#### 🔧 **Technologies**
+##### Backend:
+- Spring Boot, Spring Security, Spring Data JPA, Flyway, MySQL.
+- MinIO, WebSocket, JJWT, SpringDoc OpenAPI, Redis, Caffeine.
 
-### ✨ **Key Features**
+##### Frontend:
+- ReactJS, TailwindCSS, Bootstrap, Axios, React Router.
+- React Slick, Swiper, Framer Motion.
+
+#### ✨ **Key Features**
 - **📊 Interactive Charts**: Visualize user activity with detailed reports.  
 - **👤 User Management**: Includes registration, login, and profile handling.  
 - **💬 Real-time Chat**: 1-1 messaging with WebSocket for instant communication.  
@@ -69,4 +74,5 @@
 ---
 
 Explore these projects to learn more about my work and feel free to connect for collaboration or feedback! 😊  
+If you would like to access the source code, please contact me using the contact details above.📧
 
